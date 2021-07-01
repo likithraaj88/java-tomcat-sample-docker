@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello Team! Welcome to Docker introduction session...</h2>
-<p>We need to practice more..</p>
+<h2>Hello Arun,Vishal,Mayank</h2>
+<p>This is a sample "Hello World" java application using Docker</p>
 </body>
 </html>
